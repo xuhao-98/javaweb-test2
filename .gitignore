@@ -1,0 +1,7 @@
+# Project exclude paths
+/Demo-Cookie/target/
+/Demo-Filter/target/
+/Demo-JDBC/target/
+/Demo-Session/target/
+/out/
+/request_test/target/
